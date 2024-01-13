@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">finalApp</string>
+    <string name="navigation_drawer_open">Aç</string>
+    <string name="navigation_drawer_close">Kapat</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803124219638",
+    "project_id": "mobilprojeapp-fa16c",
+    "storage_bucket": "mobilprojeapp-fa16c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803124219638:android:fd2acc2afa571e828466d7",
+        "android_client_info": {
+          "package_name": "com.example.finalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBexP_v1yK6xJ8_y8gpTsEfD4pHWYPrDaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
